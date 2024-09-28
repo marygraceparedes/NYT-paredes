@@ -2,7 +2,7 @@
   "name": "appsdevm",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build src/index.html",
+    "build": "parcel build --public-url https://marygraceparerdes.github.io/NYT-paredes src/index.html && rm -rf docs && mv dist docs",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel serve src/index.html"
   },
@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "parcel": "2.12.0"
+    "parcel": "^2.12.0"
   }
 }
