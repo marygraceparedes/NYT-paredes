@@ -1,5 +1,5 @@
 5912
-58/home/acbedana/appsdev/NYT-paredes/dist/index.f94e79d7.css1727508229556594127 0
+58/home/acbedana/appsdev/NYT-paredes/dist/index.f94e79d7.css1727508514576567244 0
 44/home/acbedana/appsdev/NYT-paredes/README.md1727505028826938276 0
 70/home/acbedana/appsdev/NYT-paredes/node_modules/is-number/package.json1727505867846782741 0
 57/home/acbedana/appsdev/NYT-paredes/node_modules/is-number1727505867846782741 1
@@ -1561,7 +1561,7 @@
 91/home/acbedana/appsdev/NYT-paredes/node_modules/caniuse-lite/data/features/passwordrules.js1727505868896783417 0
 97/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/dist1727505872116785492 1
 71/home/acbedana/appsdev/NYT-paredes/node_modules/csso/lib/replace/Url.js1727505868356783070 0
-62/home/acbedana/appsdev/NYT-paredes/docs/index.f94e79d7.css.map1727507978386621224 0
+62/home/acbedana/appsdev/NYT-paredes/docs/index.f94e79d7.css.map1727508229566594155 0
 119/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/general.d.ts.map1727505872256785582 0
 71/home/acbedana/appsdev/NYT-paredes/node_modules/csso/lib/replace/atrule1727505868296783031 1
 64/home/acbedana/appsdev/NYT-paredes/node_modules/csso/lib/replace1727505868356783070 1
@@ -2100,7 +2100,7 @@
 92/home/acbedana/appsdev/NYT-paredes/node_modules/caniuse-lite/data/features/input-datetime.js1727505868696783288 0
 90/home/acbedana/appsdev/NYT-paredes/node_modules/type-fest/source/require-at-least-one.d.ts1727505867596782580 0
 101/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/runtime-js/src/helpers/browser/html-loader.js1727505869156783584 0
-49/home/acbedana/appsdev/NYT-paredes/src/index.html1727508222786580376 0
+49/home/acbedana/appsdev/NYT-paredes/src/index.html1727508463166566539 0
 104/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/_/_possible_constructor_return/package.json1727505868956783456 0
 100/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/lib/syntax/scope/index.js1727505871696785221 0
 83/home/acbedana/appsdev/NYT-paredes/node_modules/type-fest/source/promise-value.d.ts1727505867596782580 0
@@ -2113,7 +2113,7 @@
 95/home/acbedana/appsdev/NYT-paredes/node_modules/csso/lib/restructure/prepare/processSelector.js1727505868296783031 0
 77/home/acbedana/appsdev/NYT-paredes/node_modules/escape-string-regexp/index.js1727505868026782857 0
 128/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts1727505871766785265 0
-39/home/acbedana/appsdev/NYT-paredes/docs1727507978386621224 1
+39/home/acbedana/appsdev/NYT-paredes/docs1727508229566594155 1
 106/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1727505872556785776 1
 82/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/graph/src/shared-buffer.js1727505870306784325 0
 77/home/acbedana/appsdev/NYT-paredes/node_modules/lmdb/dependencies/lz4/lib/dll1727505867686782638 1
@@ -2320,11 +2320,11 @@
 38/home/acbedana/appsdev/NYT-paredes/src1727505030026930393 1
 97/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/runtime-js/lib/helpers/bundle-manifest.js1727505869146783578 0
 59/home/acbedana/appsdev/NYT-paredes/node_modules/is-arrayish1727505867876782760 1
-50/home/acbedana/appsdev/NYT-paredes/docs/index.html1727507978386621224 0
+50/home/acbedana/appsdev/NYT-paredes/docs/index.html1727508229556594127 0
 65/home/acbedana/appsdev/NYT-paredes/node_modules/csso/lib/index.js1727505868296783031 0
 67/home/acbedana/appsdev/NYT-paredes/node_modules/@lezer/lr/README.md1727505871446785060 0
 73/home/acbedana/appsdev/NYT-paredes/node_modules/svgo/plugins/prefixIds.js1727505868396783094 0
-34/home/acbedana/appsdev/NYT-paredes1727508229556594127 1
+34/home/acbedana/appsdev/NYT-paredes1727508514566567246 1
 54/home/acbedana/appsdev/NYT-paredes/node_modules/stable1727505867406782457 1
 70/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/config-default1727505870436784409 1
 85/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/resolver-default/package.json1727505870026784144 0
@@ -2519,7 +2519,7 @@
 58/home/acbedana/appsdev/NYT-paredes/node_modules/picocolors1727505867556782553 1
 94/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/cjs/lexer/Lexer.cjs1727505871426785046 0
 87/home/acbedana/appsdev/NYT-paredes/node_modules/css-tree/cjs/syntax/atrule/supports.cjs1727505868356783070 0
-57/home/acbedana/appsdev/NYT-paredes/dist/index.ddf749f2.js1727508229556594127 0
+57/home/acbedana/appsdev/NYT-paredes/dist/index.ddf749f2.js1727508514576567244 0
 82/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/src/_create_class.mjs1727505869036783507 0
 105/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/api/index.js1727505871636785183 0
 90/home/acbedana/appsdev/NYT-paredes/node_modules/css-tree/lib/syntax/node/index-generate.js1727505868456783133 0
@@ -2640,7 +2640,7 @@
 64/home/acbedana/appsdev/NYT-paredes/node_modules/get-port/license1727505867856782747 0
 114/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/lib/syntax/node/index-parse-selector.js1727505871686785213 0
 78/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/core/lib/buildCache.js1727505870436784409 0
-61/home/acbedana/appsdev/NYT-paredes/docs/index.ddf749f2.js.map1727507978386621224 0
+61/home/acbedana/appsdev/NYT-paredes/docs/index.ddf749f2.js.map1727508229566594155 0
 83/home/acbedana/appsdev/NYT-paredes/node_modules/svgo/plugins/removeEditorsNSData.js1727505868396783094 0
 78/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/utils/src/sourcemap.js1727505869126783564 0
 75/home/acbedana/appsdev/NYT-paredes/node_modules/cosmiconfig/dist/types.d.ts1727505868206782971 0
@@ -2711,7 +2711,7 @@
 85/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/lib/walker1727505871696785221 1
 65/home/acbedana/appsdev/NYT-paredes/node_modules/msgpackr/index.js1727505867936782799 0
 80/home/acbedana/appsdev/NYT-paredes/node_modules/css-select/node_modules/domutils1727505871586785150 1
-58/home/acbedana/appsdev/NYT-paredes/docs/index.f94e79d7.css1727507978386621224 0
+58/home/acbedana/appsdev/NYT-paredes/docs/index.f94e79d7.css1727508229556594127 0
 72/home/acbedana/appsdev/NYT-paredes/node_modules/react-refresh/runtime.js1727505867476782501 0
 132/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/pseudo/nth-last-child.js1727505872556785776 0
 87/home/acbedana/appsdev/NYT-paredes/node_modules/css-tree/lib/syntax/node/Declaration.js1727505868456783133 0
@@ -3068,7 +3068,7 @@
 98/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/cjs/tokenizer/index.cjs1727505871426785046 0
 76/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/transformer-html/src1727505869256783649 1
 100/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/cjs/_class_private_field_loose_base.cjs1727505868976783469 0
-39/home/acbedana/appsdev/NYT-paredes/dist1727508229566594155 1
+39/home/acbedana/appsdev/NYT-paredes/dist1727508514576567244 1
 90/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/packager-js/lib/ESMOutputFormat.js1727505869476783791 0
 99/home/acbedana/appsdev/NYT-paredes/node_modules/dom-serializer/node_modules/entities/lib/index.d.ts1727505871506785099 0
 77/home/acbedana/appsdev/NYT-paredes/node_modules/msgpackr-extract/node_modules1727505884966867892 1
@@ -3272,7 +3272,7 @@
 71/home/acbedana/appsdev/NYT-paredes/node_modules/@lezer/lr/dist/index.js1727505871446785060 0
 94/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/cjs/_class_private_method_set.cjs1727505868976783469 0
 67/home/acbedana/appsdev/NYT-paredes/node_modules/base-x/package.json1727505868266783012 0
-57/home/acbedana/appsdev/NYT-paredes/docs/index.ddf749f2.js1727507978386621224 0
+57/home/acbedana/appsdev/NYT-paredes/docs/index.ddf749f2.js1727508229556594127 0
 70/home/acbedana/appsdev/NYT-paredes/node_modules/picomatch/package.json1727505867546782547 0
 79/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/transformer-raw/LICENSE1727505868616783237 0
 86/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/packager-js/src/.eslintrc.json1727505869486783797 0
@@ -3477,7 +3477,7 @@
 101/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/cjs/parser/SyntaxError.cjs1727505871426785046 0
 82/home/acbedana/appsdev/NYT-paredes/node_modules/css-tree/cjs/syntax/node/index.cjs1727505868316783042 0
 72/home/acbedana/appsdev/NYT-paredes/node_modules/htmlparser2/lib/index.js1727505867906782780 0
-50/home/acbedana/appsdev/NYT-paredes/dist/index.html1727508229556594127 0
+50/home/acbedana/appsdev/NYT-paredes/dist/index.html1727508514576567244 0
 82/home/acbedana/appsdev/NYT-paredes/node_modules/htmlparser2/lib/Tokenizer.d.ts.map1727505868056782876 0
 118/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/TypeSelector.js1727505872276785596 0
 75/home/acbedana/appsdev/NYT-paredes/node_modules/regenerator-runtime/LICENSE1727505867446782482 0
@@ -4958,7 +4958,7 @@
 90/home/acbedana/appsdev/NYT-paredes/node_modules/caniuse-lite/data/features/setimmediate.js1727505868906783422 0
 93/home/acbedana/appsdev/NYT-paredes/node_modules/csso/node_modules/css-tree/lib/lexer/Lexer.js1727505871696785221 0
 95/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/core/test/fixtures/context/package.json1727505871036784795 0
-62/home/acbedana/appsdev/NYT-paredes/dist/index.f94e79d7.css.map1727508229566594155 0
+62/home/acbedana/appsdev/NYT-paredes/dist/index.f94e79d7.css.map1727508514576567244 0
 97/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/dist1727505872196785544 1
 102/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/src1727505870496784448 1
 111/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/workers/test/integration/workerfarm/shared-reference.js1727505868606783231 0
@@ -5845,7 +5845,7 @@
 119/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeEmptyText.js1727505872116785492 0
 85/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/_/_sliced_to_array_loose1727505868956783456 1
 72/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/types/tsconfig.json1727505868826783371 0
-61/home/acbedana/appsdev/NYT-paredes/dist/index.ddf749f2.js.map1727508229566594155 0
+61/home/acbedana/appsdev/NYT-paredes/dist/index.ddf749f2.js.map1727508514576567244 0
 70/home/acbedana/appsdev/NYT-paredes/node_modules/commander/CHANGELOG.md1727505868176782952 0
 73/home/acbedana/appsdev/NYT-paredes/node_modules/@swc/helpers/package.json1727505869016783493 0
 93/home/acbedana/appsdev/NYT-paredes/node_modules/@parcel/core/src/public/MutableBundleGraph.js1727505870506784453 0
